@@ -41,6 +41,12 @@ This code provides a basic example of linear regression analysis using a simple 
 
 ![image](https://github.com/Charitha-03/CODTECH-Task-2/assets/156454784/900e49e1-20b4-43ab-8bfd-fec6f7218fbb)
 
+![image](https://github.com/Charitha-03/CODTECH-Task-2/assets/156454784/e12bad6a-544f-4c7f-8caa-cf777ea7d25d)
+
+![image](https://github.com/Charitha-03/CODTECH-Task-2/assets/156454784/576ef32e-36e3-4320-808c-776427b433f2)
+
+
+
 
 
 
